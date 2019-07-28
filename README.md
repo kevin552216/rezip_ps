@@ -1,4 +1,5 @@
 # rezip_ps
+<pre>
 powershell rezip script<br/>
 if the dir is like<br/>
 folder<br/>
@@ -38,3 +39,4 @@ folder<br/>
   --name.zip<br/>
   --name1.zip<br/>
 --b<br/>
+</pre>
