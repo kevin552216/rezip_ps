@@ -1,40 +1,40 @@
 # rezip_ps
-powershell rezip script
-if the dir is like
-folder
-  --a
-    --name
-      --jpg
-      --jpg
-      .
-      .
-      .
-      .
-  --b
-  --c
+powershell rezip script<br/>
+if the dir is like<br/>
+folder<br/>
+  --a<br/>
+    --name<br/>
+      --jpg<br/>
+      --jpg<br/>
+      .<br/>
+      .<br/>
+      .<br/>
+      .<br/>
+  --b<br/>
+  --c<br/>
   
-and you want to zip like
-folder
- --a
-  --name1.zip
-  --name2.zip
-  ....
+and you want to zip like<br/>
+folder<br/>
+ --a<br/>
+  --name1.zip<br/>
+  --name2.zip<br/>
+  ....<br/>
 
 
-you can use this script
-it will do like
+you can use this script<br/>
+it will do like<br/>
 
-folder
- --a
- --b
- --c
- --script
+folder<br/>
+ --a<br/>
+ --b<br/>
+ --c<br/>
+ --script<br/>
  
  
- to 
-folder
- --a
- --arezip
-  --name.zip
-  --name1.zip
---b
+ to <br/>
+folder<br/>
+ --a<br/>
+ --arezip<br/>
+  --name.zip<br/>
+  --name1.zip<br/>
+--b<br/>
